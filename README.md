@@ -10,7 +10,7 @@ O material foi organizado em arquivos separados para facilitar a leitura, o estu
 
 | Arquivo | Descrição |
 |---|---|
-| `resolucao_1.md` | Resolução principal com interpretação sentencial, formalização, fbf, argumentos, teoremas e equivalências. |
+| `exercicios_1.md` | Resolução principal com interpretação sentencial, formalização, fbf, argumentos, teoremas e equivalências. |
 | `exercicios_2.md` | Formalização e verificação de validade dos Exercícios 2, incluindo provas e contraexemplos. |
 | `exercicios_3.md` | Formalização e verificação de validade dos Exercícios 3, com justificativas lógicas. |
 
